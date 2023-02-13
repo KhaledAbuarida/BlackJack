@@ -1,5 +1,5 @@
 # BlackJack
-OOP project BlackJack 
-## this project is Blackjack Game apply the concepts of OOP
+OOP project BlackJack
+### Blackjack Game of apply the concepts of OOP, with java language.
 #### FCIS2022
 ##### Khaled Abu3rida
